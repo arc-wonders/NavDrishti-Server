@@ -1,0 +1,205 @@
+frame 1 : general_1 : timeout , currency_worker : pending
+frame 2 : general_1 : timeout , currency_worker : pending
+frame 3 : general_1 : timeout , currency_worker : pending
+frame 4 : general_1 : timeout , currency_worker : pending
+frame 5 : general_1 : timeout , currency_worker : pending
+frame 6 : general_1 : timeout , currency_worker : pending
+frame 7 : general_1 : timeout , currency_worker : pending
+frame 8 : general_1 : timeout , currency_worker : pending
+frame 9 : general_1 : timeout , currency_worker : pending
+frame 10 : general_1 : timeout , currency_worker : pending
+frame 11 : general_1 : timeout , currency_worker : pending
+frame 12 : general_1 : timeout , currency_worker : pending
+frame 13 : general_1 : timeout , currency_worker : pending
+frame 14 : general_1 : timeout , currency_worker : pending
+frame 15 : general_1 : timeout , currency_worker : pending
+frame 16 : general_1 : timeout , currency_worker : pending
+frame 17 : general_1 : timeout , currency_worker : pending
+frame 18 : general_1 : timeout , currency_worker : pending
+frame 19 : general_1 : timeout , currency_worker : pending
+frame 20 : general_1 : timeout , currency_worker : pending
+frame 21 : general_1 : timeout , currency_worker : pending
+frame 22 : general_1 : timeout , currency_worker : pending
+frame 23 : general_1 : timeout , currency_worker : pending
+frame 24 : general_1 : timeout , currency_worker : pending
+frame 25 : general_1 : timeout , currency_worker : pending
+frame 26 : general_1 : timeout , currency_worker : pending
+frame 27 : general_1 : timeout , currency_worker : pending
+frame 28 : general_1 : timeout , currency_worker : pending
+frame 29 : general_1 : timeout , currency_worker : pending
+frame 30 : general_1 : timeout , currency_worker : pending
+frame 31 : general_1 : timeout , currency_worker : pending
+frame 32 : general_1 : timeout , currency_worker : pending
+frame 33 : general_1 : timeout , currency_worker : pending
+frame 34 : general_1 : timeout , currency_worker : pending
+frame 35 : general_1 : timeout , currency_worker : pending
+frame 36 : general_1 : timeout , currency_worker : pending
+frame 37 : general_1 : timeout , currency_worker : pending
+frame 38 : general_1 : timeout , currency_worker : pending
+frame 39 : general_1 : timeout , currency_worker : pending
+frame 40 : general_1 : timeout , currency_worker : pending
+frame 41 : general_1 : timeout , currency_worker : pending
+frame 42 : general_1 : timeout , currency_worker : pending
+frame 43 : general_1 : timeout , currency_worker : pending
+frame 44 : general_1 : timeout , currency_worker : pending
+frame 45 : general_1 : timeout , currency_worker : pending
+frame 46 : general_1 : timeout , currency_worker : pending
+frame 47 : general_1 : none , currency_worker : timeout
+frame 48 : general_1 : person(0.52, angle=-59.8deg, area=0.0067) , currency_worker : timeout
+frame 49 : general_1 : none , currency_worker : timeout
+frame 50 : general_1 : none , currency_worker : timeout
+frame 51 : general_1 : none , currency_worker : timeout
+frame 52 : general_1 : none , currency_worker : timeout
+frame 53 : general_1 : none , currency_worker : timeout
+frame 54 : general_1 : none , currency_worker : timeout
+frame 55 : general_1 : none , currency_worker : timeout
+frame 56 : general_1 : oven(0.27, angle=-4.1deg, area=0.6426) , currency_worker : timeout
+frame 57 : general_1 : none , currency_worker : timeout
+frame 58 : general_1 : none , currency_worker : timeout
+frame 59 : general_1 : car(0.63, angle=-23.9deg, area=0.4873) , currency_worker : timeout
+frame 60 : general_1 : car(0.35, angle=-30.3deg, area=0.6163), parking meter(0.29, angle=-12.0deg, area=0.1712), car(0.25, angle=-30.6deg, area=0.4428) , currency_worker : timeout
+frame 52 : general_1 : none , currency_worker : none
+frame 61 : general_1 : car(0.28, angle=-36.4deg, area=0.3933) , currency_worker : timeout
+frame 53 : general_1 : none , currency_worker : 100(0.78, angle=0.0deg, area=0.9965)
+frame 54 : general_1 : none , currency_worker : 100(0.68, angle=0.1deg, area=0.9985)
+frame 55 : general_1 : none , currency_worker : 100(0.81, angle=0.1deg, area=0.9956)
+frame 56 : general_1 : oven(0.27, angle=-4.1deg, area=0.6426) , currency_worker : none
+frame 57 : general_1 : none , currency_worker : none
+frame 58 : general_1 : none , currency_worker : none
+frame 62 : general_1 : none , currency_worker : timeout
+frame 59 : general_1 : car(0.63, angle=-23.9deg, area=0.4873) , currency_worker : none
+frame 60 : general_1 : car(0.35, angle=-30.3deg, area=0.6163), parking meter(0.29, angle=-12.0deg, area=0.1712), car(0.25, angle=-30.6deg, area=0.4428) , currency_worker : none
+frame 61 : general_1 : car(0.28, angle=-36.4deg, area=0.3933) , currency_worker : 100(0.32, angle=0.4deg, area=0.9698)
+frame 62 : general_1 : none , currency_worker : 100(0.50, angle=0.1deg, area=0.9889)
+frame 63 : general_1 : none , currency_worker : 100(0.75, angle=0.2deg, area=0.9961)
+frame 64 : general_1 : car(0.29, angle=-49.2deg, area=0.1758), car(0.27, angle=-49.1deg, area=0.2187) , currency_worker : 100(0.41, angle=0.0deg, area=0.9955)
+frame 65 : general_1 : car(0.35, angle=-52.4deg, area=0.2576) , currency_worker : 100(0.76, angle=0.1deg, area=0.9955)
+frame 66 : general_1 : person(0.59, angle=13.7deg, area=0.0098), person(0.57, angle=81.1deg, area=0.0190), person(0.52, angle=67.6deg, area=0.0200), car(0.43, angle=-56.0deg, area=0.1816), person(0.26, angle=18.6deg, area=0.0087) , currency_worker : none
+frame 67 : general_1 : bench(0.70, angle=-60.4deg, area=0.1189), person(0.62, angle=71.9deg, area=0.0203), person(0.52, angle=8.0deg, area=0.0103), person(0.30, angle=61.4deg, area=0.0189) , currency_worker : 100(0.86, angle=0.0deg, area=0.9937)
+frame 68 : general_1 : person(0.71, angle=68.1deg, area=0.0181), person(0.70, angle=2.7deg, area=0.0114), person(0.55, angle=80.7deg, area=0.0111), bench(0.50, angle=-63.5deg, area=0.1079), person(0.44, angle=8.2deg, area=0.0095), person(0.28, angle=55.7deg, area=0.0172) , currency_worker : 100(0.29, angle=0.3deg, area=0.9917), 100(0.26, angle=41.4deg, area=0.5356)
+frame 69 : general_1 : person(0.74, angle=63.1deg, area=0.0160), person(0.66, angle=51.2deg, area=0.0170), person(0.65, angle=-1.8deg, area=0.0117), person(0.55, angle=75.2deg, area=0.0112), bench(0.47, angle=-66.7deg, area=0.0961), person(0.37, angle=3.7deg, area=0.0090), truck(0.29, angle=-64.4deg, area=0.1957) , currency_worker : 100(0.40, angle=37.8deg, area=0.5756)
+frame 70 : general_1 : person(0.71, angle=57.5deg, area=0.0173), person(0.62, angle=70.1deg, area=0.0113), person(0.60, angle=-6.4deg, area=0.0123), person(0.51, angle=-0.9deg, area=0.0090), tv(0.47, angle=86.6deg, area=0.0027), car(0.30, angle=-67.0deg, area=0.1091), bench(0.26, angle=-69.3deg, area=0.0808) , currency_worker : none
+frame 71 : general_1 : person(0.75, angle=50.6deg, area=0.0165), person(0.74, angle=-12.5deg, area=0.0131), tv(0.68, angle=83.1deg, area=0.0049), person(0.48, angle=63.7deg, area=0.0107), person(0.41, angle=39.8deg, area=0.0157), person(0.28, angle=-6.6deg, area=0.0085), car(0.27, angle=-70.1deg, area=0.1412) , currency_worker : none
+frame 72 : general_1 : person(0.57, angle=-19.8deg, area=0.0132), person(0.44, angle=41.1deg, area=0.0216), tv(0.32, angle=75.5deg, area=0.0054) , currency_worker : 100(0.86, angle=27.3deg, area=0.6914)
+frame 73 : general_1 : person(0.53, angle=-26.5deg, area=0.0158), tv(0.38, angle=66.5deg, area=0.0048), person(0.33, angle=48.1deg, area=0.0098), person(0.25, angle=34.8deg, area=0.0124) , currency_worker : 100(0.89, angle=16.4deg, area=0.8120)
+frame 74 : general_1 : person(0.75, angle=26.3deg, area=0.0161), tv(0.47, angle=57.9deg, area=0.0047), person(0.45, angle=-35.0deg, area=0.0132), person(0.40, angle=39.8deg, area=0.0093) , currency_worker : 100(0.85, angle=17.5deg, area=0.8014)
+frame 75 : general_1 : person(0.75, angle=33.0deg, area=0.0087), person(0.73, angle=9.9deg, area=0.0140), person(0.68, angle=20.3deg, area=0.0132), person(0.63, angle=-40.5deg, area=0.0138), tv(0.61, angle=50.9deg, area=0.0043) , currency_worker : 100(0.85, angle=3.4deg, area=0.9551)
+frame 76 : general_1 : person(0.84, angle=15.2deg, area=0.0125), person(0.77, angle=4.2deg, area=0.0115), person(0.69, angle=27.3deg, area=0.0088), person(0.54, angle=-46.8deg, area=0.0127), tv(0.54, angle=45.1deg, area=0.0041), person(0.39, angle=-41.5deg, area=0.0124), person(0.33, angle=52.0deg, area=0.0138) , currency_worker : 100(0.70, angle=27.1deg, area=0.6984)
+frame 77 : general_1 : person(0.89, angle=2.6deg, area=0.0126), person(0.87, angle=13.9deg, area=0.0127), person(0.84, angle=-41.6deg, area=0.0102), person(0.81, angle=25.2deg, area=0.0092), person(0.78, angle=55.1deg, area=0.0087), tv(0.75, angle=43.8deg, area=0.0036), person(0.72, angle=-51.2deg, area=0.0063), person(0.70, angle=-47.5deg, area=0.0109), person(0.52, angle=48.6deg, area=0.0103), person(0.26, angle=-3.1deg, area=0.0040) , currency_worker : none
+frame 78 : general_1 : person(0.89, angle=3.8deg, area=0.0125), person(0.85, angle=-46.1deg, area=0.0119), person(0.84, angle=15.0deg, area=0.0130), person(0.84, angle=-40.4deg, area=0.0098), person(0.81, angle=55.7deg, area=0.0090), person(0.79, angle=27.4deg, area=0.0075), tv(0.75, angle=44.9deg, area=0.0040), person(0.64, angle=-49.9deg, area=0.0067), person(0.63, angle=49.1deg, area=0.0108), chair(0.56, angle=18.6deg, area=0.0028) , currency_worker : 100(0.45, angle=3.8deg, area=0.9489)
+frame 79 : general_1 : person(0.90, angle=3.6deg, area=0.0129), person(0.86, angle=-46.1deg, area=0.0112), person(0.84, angle=14.7deg, area=0.0132), person(0.84, angle=55.4deg, area=0.0094), person(0.80, angle=-40.5deg, area=0.0095), person(0.71, angle=49.1deg, area=0.0115), person(0.67, angle=26.1deg, area=0.0096), tv(0.62, angle=45.2deg, area=0.0036), person(0.60, angle=-49.9deg, area=0.0069) , currency_worker : 100(0.75, angle=0.2deg, area=0.9913)
+frame 80 : general_1 : person(0.90, angle=3.1deg, area=0.0125), person(0.86, angle=-46.0deg, area=0.0114), person(0.84, angle=55.4deg, area=0.0094), person(0.82, angle=-40.7deg, area=0.0097), person(0.79, angle=14.5deg, area=0.0126), person(0.78, angle=48.8deg, area=0.0115), person(0.77, angle=26.4deg, area=0.0094), person(0.66, angle=-49.9deg, area=0.0071), tv(0.57, angle=45.1deg, area=0.0038), tv(0.32, angle=44.1deg, area=0.0066), person(0.28, angle=18.0deg, area=0.0075) , currency_worker : 100(0.83, angle=0.5deg, area=0.9919)
+frame 81 : general_1 : person(0.84, angle=17.0deg, area=0.0140), person(0.83, angle=58.3deg, area=0.0109), person(0.83, angle=5.4deg, area=0.0122), person(0.81, angle=28.6deg, area=0.0099), person(0.76, angle=-38.1deg, area=0.0099), person(0.74, angle=-43.6deg, area=0.0120), person(0.68, angle=51.4deg, area=0.0113), tv(0.63, angle=47.6deg, area=0.0040), person(0.56, angle=-47.2deg, area=0.0071) , currency_worker : 100(0.86, angle=1.3deg, area=0.9785)
+frame 82 : general_1 : person(0.77, angle=-39.4deg, area=0.0125), person(0.75, angle=21.0deg, area=0.0137), person(0.74, angle=33.1deg, area=0.0095), person(0.63, angle=9.1deg, area=0.0116), person(0.62, angle=63.0deg, area=0.0105), person(0.58, angle=-33.4deg, area=0.0084), person(0.58, angle=-1.3deg, area=0.0195), person(0.41, angle=24.9deg, area=0.0106), person(0.35, angle=55.9deg, area=0.0107), tv(0.30, angle=51.8deg, area=0.0050) , currency_worker : 100(0.86, angle=1.9deg, area=0.9687)
+frame 83 : general_1 : person(0.81, angle=-35.0deg, area=0.0133), person(0.76, angle=25.6deg, area=0.0144), person(0.75, angle=68.0deg, area=0.0111), person(0.74, angle=37.8deg, area=0.0098), person(0.68, angle=13.6deg, area=0.0116), tv(0.64, angle=57.2deg, area=0.0046), person(0.61, angle=3.5deg, area=0.0175), person(0.60, angle=-28.9deg, area=0.0094), person(0.53, angle=30.4deg, area=0.0098), person(0.42, angle=61.0deg, area=0.0116) , currency_worker : 100(0.87, angle=2.6deg, area=0.9656)
+frame 84 : general_1 : person(0.76, angle=30.2deg, area=0.0149), person(0.74, angle=-29.9deg, area=0.0128), person(0.72, angle=18.1deg, area=0.0115), person(0.65, angle=73.9deg, area=0.0116), person(0.64, angle=43.3deg, area=0.0093), person(0.61, angle=-24.0deg, area=0.0089), tv(0.60, angle=62.5deg, area=0.0044), person(0.55, angle=35.8deg, area=0.0115) , currency_worker : 100(0.83, angle=8.2deg, area=0.9049)
+frame 85 : general_1 : person(0.79, angle=-24.9deg, area=0.0140), person(0.68, angle=35.6deg, area=0.0137), tv(0.55, angle=69.1deg, area=0.0049), person(0.41, angle=42.3deg, area=0.0129), person(0.37, angle=81.5deg, area=0.0120), person(0.35, angle=-18.3deg, area=0.0093) , currency_worker : 100(0.81, angle=15.8deg, area=0.8207)
+frame 86 : general_1 : person(0.70, angle=44.2deg, area=0.0145), person(0.67, angle=-16.7deg, area=0.0127), person(0.46, angle=51.8deg, area=0.0126), tv(0.46, angle=78.0deg, area=0.0047), person(0.45, angle=-10.7deg, area=0.0093), person(0.42, angle=31.0deg, area=0.0129), person(0.36, angle=58.2deg, area=0.0096) , currency_worker : 100(0.79, angle=18.5deg, area=0.7924)
+frame 87 : general_1 : person(0.63, angle=-9.8deg, area=0.0139), person(0.56, angle=51.3deg, area=0.0144), person(0.34, angle=60.8deg, area=0.0122) , currency_worker : 100(0.83, angle=24.6deg, area=0.7252)
+frame 88 : general_1 : person(0.75, angle=-2.4deg, area=0.0133), person(0.54, angle=60.4deg, area=0.0141), person(0.51, angle=4.6deg, area=0.0092), person(0.38, angle=70.6deg, area=0.0137) , currency_worker : 100(0.87, angle=25.8deg, area=0.7128), 50(0.37, angle=-64.7deg, area=0.2780)
+frame 89 : general_1 : person(0.81, angle=3.1deg, area=0.0128), person(0.73, angle=66.5deg, area=0.0154), person(0.59, angle=9.8deg, area=0.0088), person(0.53, angle=80.8deg, area=0.0198) , currency_worker : 100(0.87, angle=28.1deg, area=0.6871), 50(0.47, angle=-62.6deg, area=0.3012)
+frame 90 : general_1 : person(0.75, angle=72.1deg, area=0.0161), person(0.75, angle=14.3deg, area=0.0091), person(0.71, angle=84.3deg, area=0.0144), person(0.58, angle=8.1deg, area=0.0113), person(0.43, angle=57.7deg, area=0.0152) , currency_worker : 100(0.75, angle=30.2deg, area=0.6628), 50(0.63, angle=-62.4deg, area=0.3040), 10(0.48, angle=29.9deg, area=0.6646)
+frame 91 : general_1 : person(0.83, angle=77.1deg, area=0.0163), person(0.82, angle=12.4deg, area=0.0099), person(0.75, angle=62.8deg, area=0.0139), person(0.75, angle=18.3deg, area=0.0088), person(0.74, angle=86.8deg, area=0.0071), person(0.66, angle=8.7deg, area=0.0064), person(0.34, angle=8.6deg, area=0.0060), person(0.29, angle=57.2deg, area=0.0067) , currency_worker : 100(0.65, angle=31.6deg, area=0.6494), 10(0.59, angle=31.4deg, area=0.6478), 50(0.59, angle=-61.1deg, area=0.3188)
+frame 92 : general_1 : person(0.85, angle=77.8deg, area=0.0175), person(0.83, angle=63.6deg, area=0.0139), person(0.82, angle=19.1deg, area=0.0091), person(0.77, angle=13.4deg, area=0.0097), person(0.66, angle=87.7deg, area=0.0045), person(0.29, angle=9.7deg, area=0.0063) , currency_worker : 100(0.63, angle=31.2deg, area=0.6538), 50(0.62, angle=-61.1deg, area=0.3201), 10(0.42, angle=31.1deg, area=0.6512)
+frame 93 : general_1 : person(0.85, angle=75.2deg, area=0.0164), person(0.83, angle=11.0deg, area=0.0095), person(0.71, angle=86.4deg, area=0.0077), person(0.54, angle=7.6deg, area=0.0058), person(0.52, angle=17.2deg, area=0.0093), person(0.42, angle=61.2deg, area=0.0147), person(0.42, angle=17.2deg, area=0.0093), person(0.31, angle=55.2deg, area=0.0059) , currency_worker : 100(0.83, angle=29.7deg, area=0.6676), 50(0.46, angle=-63.0deg, area=0.2998)
+frame 94 : general_1 : person(0.81, angle=71.8deg, area=0.0161), person(0.73, angle=14.1deg, area=0.0090), person(0.69, angle=86.1deg, area=0.0096), person(0.66, angle=58.1deg, area=0.0121), person(0.54, angle=8.2deg, area=0.0096), person(0.50, angle=4.7deg, area=0.0057) , currency_worker : 100(0.85, angle=27.4deg, area=0.6942), 50(0.64, angle=-65.5deg, area=0.2708)
+frame 95 : general_1 : person(0.88, angle=83.7deg, area=0.0159), person(0.84, angle=69.7deg, area=0.0155), person(0.81, angle=6.8deg, area=0.0091), person(0.78, angle=12.4deg, area=0.0086), person(0.69, angle=3.3deg, area=0.0054), person(0.57, angle=56.1deg, area=0.0128) , currency_worker : 100(0.64, angle=25.4deg, area=0.7167), 50(0.53, angle=-67.3deg, area=0.2507), 10(0.48, angle=25.5deg, area=0.7127)
+frame 96 : general_1 : person(0.87, angle=82.1deg, area=0.0180), person(0.84, angle=10.1deg, area=0.0090), person(0.81, angle=66.7deg, area=0.0148), person(0.69, angle=0.5deg, area=0.0051), person(0.37, angle=53.3deg, area=0.0113) , currency_worker : 100(0.82, angle=23.5deg, area=0.7378)
+frame 97 : general_1 : person(0.83, angle=79.1deg, area=0.0173), person(0.79, angle=62.6deg, area=0.0147), person(0.70, angle=6.1deg, area=0.0107), person(0.40, angle=49.5deg, area=0.0129), person(0.40, angle=0.9deg, area=0.0088), person(0.36, angle=-2.7deg, area=0.0051) , currency_worker : 100(0.80, angle=21.2deg, area=0.7627)
+frame 98 : general_1 : person(0.81, angle=75.8deg, area=0.0162), person(0.79, angle=58.3deg, area=0.0137), person(0.74, angle=-2.9deg, area=0.0103), bench(0.67, angle=-80.9deg, area=0.0300), person(0.55, angle=2.9deg, area=0.0096), person(0.34, angle=-6.7deg, area=0.0054), person(0.30, angle=44.4deg, area=0.0130), person(0.28, angle=-6.4deg, area=0.0062) , currency_worker : 100(0.85, angle=19.0deg, area=0.7862)
+frame 99 : general_1 : person(0.76, angle=52.4deg, area=0.0136), person(0.72, angle=-7.7deg, area=0.0106), person(0.68, angle=-1.7deg, area=0.0099), person(0.61, angle=71.5deg, area=0.0153), person(0.31, angle=-11.4deg, area=0.0064), person(0.29, angle=-11.7deg, area=0.0057) , currency_worker : 100(0.79, angle=15.9deg, area=0.8172)
+frame 100 : general_1 : person(0.79, angle=-13.6deg, area=0.0126), person(0.79, angle=-7.0deg, area=0.0102), person(0.77, angle=67.1deg, area=0.0127), person(0.77, angle=47.2deg, area=0.0134), person(0.36, angle=33.1deg, area=0.0129) , currency_worker : 100(0.83, angle=10.1deg, area=0.8795)
+frame 101 : general_1 : person(0.83, angle=42.7deg, area=0.0141), person(0.81, angle=63.3deg, area=0.0105), person(0.79, angle=-10.9deg, area=0.0099), person(0.77, angle=30.0deg, area=0.0134), person(0.67, angle=-17.0deg, area=0.0105), person(0.42, angle=83.6deg, area=0.0134), tv(0.28, angle=81.1deg, area=0.0033), chair(0.28, angle=48.5deg, area=0.0047), person(0.27, angle=19.0deg, area=0.0049), tv(0.26, angle=80.0deg, area=0.0051), person(0.26, angle=-20.5deg, area=0.0054), person(0.25, angle=23.6deg, area=0.0053) , currency_worker : 100(0.74, angle=11.2deg, area=0.8644)
+frame 102 : general_1 : person(0.87, angle=28.8deg, area=0.0143), person(0.86, angle=42.1deg, area=0.0143), person(0.86, angle=-11.9deg, area=0.0099), person(0.85, angle=62.6deg, area=0.0119), person(0.69, angle=-21.1deg, area=0.0060), person(0.68, angle=83.0deg, area=0.0137), person(0.65, angle=18.3deg, area=0.0057), person(0.62, angle=-17.7deg, area=0.0095), person(0.62, angle=23.1deg, area=0.0052), person(0.39, angle=55.8deg, area=0.0074), chair(0.27, angle=47.5deg, area=0.0047) , currency_worker : 100(0.76, angle=1.6deg, area=0.9747)
+frame 103 : general_1 : person(0.87, angle=-11.2deg, area=0.0103), person(0.87, angle=42.6deg, area=0.0161), person(0.85, angle=64.1deg, area=0.0136), person(0.78, angle=-20.4deg, area=0.0065), person(0.74, angle=29.6deg, area=0.0147), person(0.70, angle=-17.1deg, area=0.0099), person(0.57, angle=56.9deg, area=0.0079), person(0.55, angle=24.0deg, area=0.0061), person(0.54, angle=-17.2deg, area=0.0097), person(0.45, angle=19.1deg, area=0.0056), person(0.40, angle=83.6deg, area=0.0136), chair(0.29, angle=48.2deg, area=0.0047) , currency_worker : 100(0.43, angle=1.0deg, area=0.9811)
+frame 104 : general_1 : person(0.90, angle=64.9deg, area=0.0155), person(0.89, angle=42.6deg, area=0.0164), person(0.87, angle=30.1deg, area=0.0155), person(0.87, angle=-11.0deg, area=0.0100), person(0.83, angle=-17.5deg, area=0.0105), person(0.65, angle=-20.6deg, area=0.0071), person(0.64, angle=19.2deg, area=0.0057), person(0.57, angle=24.2deg, area=0.0061), person(0.57, angle=56.6deg, area=0.0092) , currency_worker : 100(0.61, angle=0.8deg, area=0.9843)
+frame 105 : general_1 : person(0.88, angle=-11.5deg, area=0.0102), person(0.85, angle=42.9deg, area=0.0147), person(0.85, angle=29.7deg, area=0.0151), person(0.71, angle=23.6deg, area=0.0056), person(0.64, angle=-18.0deg, area=0.0110), person(0.58, angle=-18.1deg, area=0.0110), person(0.48, angle=-21.0deg, area=0.0079), person(0.38, angle=18.9deg, area=0.0055), person(0.32, angle=57.1deg, area=0.0083), person(0.26, angle=65.6deg, area=0.0157) , currency_worker : 100(0.61, angle=0.0deg, area=0.9950)
+frame 106 : general_1 : person(0.88, angle=-11.5deg, area=0.0106), person(0.85, angle=65.6deg, area=0.0177), person(0.84, angle=42.8deg, area=0.0145), person(0.80, angle=29.5deg, area=0.0154), person(0.78, angle=-18.1deg, area=0.0104), person(0.49, angle=-21.3deg, area=0.0073), person(0.43, angle=23.8deg, area=0.0059), person(0.42, angle=57.7deg, area=0.0088) , currency_worker : 100(0.68, angle=1.0deg, area=0.9866)
+frame 107 : general_1 : person(0.89, angle=-11.8deg, area=0.0114), person(0.88, angle=66.1deg, area=0.0180), person(0.85, angle=42.6deg, area=0.0158), person(0.83, angle=29.9deg, area=0.0166), person(0.76, angle=-18.2deg, area=0.0105), person(0.59, angle=-21.5deg, area=0.0071), person(0.58, angle=58.1deg, area=0.0100), person(0.54, angle=23.9deg, area=0.0064), person(0.48, angle=18.9deg, area=0.0055), person(0.42, angle=-21.5deg, area=0.0064), person(0.38, angle=58.4deg, area=0.0094) , currency_worker : 100(0.70, angle=0.1deg, area=0.9958)
+frame 108 : general_1 : person(0.87, angle=69.0deg, area=0.0204), person(0.85, angle=-16.6deg, area=0.0118), person(0.80, angle=31.8deg, area=0.0180), person(0.74, angle=-10.6deg, area=0.0102), person(0.67, angle=60.3deg, area=0.0120), person(0.53, angle=44.3deg, area=0.0172) , currency_worker : 100(0.86, angle=6.3deg, area=0.9255)
+frame 109 : general_1 : person(0.88, angle=33.9deg, area=0.0175), person(0.88, angle=71.9deg, area=0.0188), person(0.87, angle=46.9deg, area=0.0162), person(0.83, angle=-15.3deg, area=0.0109), person(0.82, angle=-8.7deg, area=0.0097), person(0.67, angle=62.7deg, area=0.0119), person(0.62, angle=27.8deg, area=0.0069), person(0.45, angle=-18.0deg, area=0.0072), person(0.29, angle=86.5deg, area=0.0059) , currency_worker : 100(0.79, angle=12.3deg, area=0.8588)
+frame 110 : general_1 : person(0.90, angle=72.8deg, area=0.0195), person(0.89, angle=33.7deg, area=0.0176), person(0.89, angle=-15.8deg, area=0.0113), person(0.85, angle=46.7deg, area=0.0168), person(0.83, angle=-8.7deg, area=0.0110), person(0.73, angle=63.3deg, area=0.0128), person(0.52, angle=27.8deg, area=0.0063), person(0.38, angle=86.5deg, area=0.0060), chair(0.34, angle=52.8deg, area=0.0054), person(0.26, angle=-18.5deg, area=0.0063) , currency_worker : 100(0.86, angle=5.6deg, area=0.9331)
+frame 111 : general_1 : person(0.90, angle=73.0deg, area=0.0193), person(0.89, angle=33.2deg, area=0.0172), person(0.88, angle=-16.3deg, area=0.0123), person(0.86, angle=46.3deg, area=0.0165), person(0.85, angle=33.2deg, area=0.0172), person(0.82, angle=-9.5deg, area=0.0099), person(0.73, angle=63.4deg, area=0.0126), person(0.41, angle=27.4deg, area=0.0066), person(0.30, angle=23.4deg, area=0.0061), person(0.30, angle=86.6deg, area=0.0057) , currency_worker : 100(0.84, angle=6.9deg, area=0.9183)
+frame 112 : general_1 : person(0.89, angle=32.2deg, area=0.0164), person(0.88, angle=72.5deg, area=0.0194), person(0.87, angle=-17.4deg, area=0.0113), person(0.84, angle=45.3deg, area=0.0168), person(0.81, angle=-10.4deg, area=0.0097), person(0.64, angle=62.6deg, area=0.0119), person(0.46, angle=26.5deg, area=0.0065) , currency_worker : 100(0.70, angle=5.0deg, area=0.9383)
+frame 113 : general_1 : person(0.82, angle=-14.0deg, area=0.0134), person(0.74, angle=49.6deg, area=0.0158), person(0.53, angle=33.8deg, area=0.0129), person(0.49, angle=65.9deg, area=0.0116), person(0.44, angle=77.1deg, area=0.0192), person(0.42, angle=-7.5deg, area=0.0079) , currency_worker : 100(0.81, angle=10.5deg, area=0.8727)
+frame 114 : general_1 : person(0.79, angle=-8.3deg, area=0.0136), person(0.79, angle=55.6deg, area=0.0194), person(0.64, angle=40.6deg, area=0.0164), person(0.57, angle=-1.3deg, area=0.0101), person(0.48, angle=83.6deg, area=0.0168), person(0.40, angle=85.7deg, area=0.0056) , currency_worker : 100(0.87, angle=22.7deg, area=0.7341)
+frame 115 : general_1 : person(0.83, angle=-2.2deg, area=0.0145), person(0.78, angle=62.7deg, area=0.0189), person(0.64, angle=4.6deg, area=0.0106), person(0.43, angle=47.0deg, area=0.0186), bench(0.31, angle=-76.7deg, area=0.0422), person(0.27, angle=80.5deg, area=0.0129) , currency_worker : 100(0.41, angle=31.3deg, area=0.6464)
+frame 116 : general_1 : person(0.82, angle=6.2deg, area=0.0154), person(0.54, angle=72.7deg, area=0.0185), person(0.48, angle=13.5deg, area=0.0112) , currency_worker : 100(0.66, angle=4.1deg, area=0.9323)
+frame 117 : general_1 : person(0.60, angle=17.8deg, area=0.0167), toilet(0.34, angle=-53.6deg, area=0.0276) , currency_worker : 100(0.81, angle=11.8deg, area=0.8579)
+frame 118 : general_1 : person(0.66, angle=29.6deg, area=0.0174) , currency_worker : 100(0.71, angle=16.1deg, area=0.8210)
+frame 119 : general_1 : person(0.83, angle=38.7deg, area=0.0155), person(0.36, angle=46.0deg, area=0.0120) , currency_worker : 100(0.58, angle=28.6deg, area=0.6826)
+frame 120 : general_1 : person(0.83, angle=45.6deg, area=0.0148), person(0.70, angle=53.1deg, area=0.0129) , currency_worker : 100(0.49, angle=30.2deg, area=0.6633)
+frame 121 : general_1 : person(0.90, angle=48.0deg, area=0.0133), person(0.90, angle=55.4deg, area=0.0116) , currency_worker : none
+frame 122 : general_1 : person(0.89, angle=46.5deg, area=0.0132), person(0.83, angle=53.6deg, area=0.0125) , currency_worker : 100(0.30, angle=30.7deg, area=0.6569)
+frame 123 : general_1 : person(0.89, angle=45.3deg, area=0.0128), person(0.85, angle=52.4deg, area=0.0108) , currency_worker : 100(0.64, angle=31.9deg, area=0.6440)
+frame 124 : general_1 : person(0.87, angle=51.4deg, area=0.0114), person(0.61, angle=44.3deg, area=0.0123), person(0.45, angle=44.3deg, area=0.0124) , currency_worker : 100(0.33, angle=30.0deg, area=0.6640)
+frame 125 : general_1 : person(0.92, angle=43.1deg, area=0.0127), person(0.87, angle=50.4deg, area=0.0112) , currency_worker : none
+frame 126 : general_1 : person(0.86, angle=39.9deg, area=0.0139), person(0.46, angle=46.8deg, area=0.0115) , currency_worker : 100(0.60, angle=28.2deg, area=0.6795)
+frame 127 : general_1 : person(0.89, angle=36.9deg, area=0.0129), person(0.81, angle=43.8deg, area=0.0110), person(0.45, angle=85.4deg, area=0.0119) , currency_worker : 100(0.39, angle=27.5deg, area=0.6944)
+frame 128 : general_1 : person(0.85, angle=34.1deg, area=0.0138), person(0.77, angle=41.1deg, area=0.0110), person(0.34, angle=82.9deg, area=0.0124) , currency_worker : 100(0.47, angle=26.0deg, area=0.7062)
+frame 129 : general_1 : person(0.84, angle=28.6deg, area=0.0147), person(0.69, angle=35.8deg, area=0.0112), person(0.41, angle=85.3deg, area=0.0136), person(0.31, angle=75.9deg, area=0.0138) , currency_worker : 100(0.60, angle=1.5deg, area=0.9803)
+frame 130 : general_1 : person(0.83, angle=21.5deg, area=0.0146), person(0.61, angle=28.5deg, area=0.0119), person(0.53, angle=79.8deg, area=0.0270), person(0.39, angle=69.2deg, area=0.0156) , currency_worker : 100(0.80, angle=0.1deg, area=0.9969)
+frame 131 : general_1 : person(0.85, angle=15.4deg, area=0.0143), person(0.72, angle=22.7deg, area=0.0109), person(0.55, angle=85.2deg, area=0.0143), person(0.43, angle=61.1deg, area=0.0139), person(0.36, angle=79.0deg, area=0.0101), person(0.31, angle=70.5deg, area=0.0204), scissors(0.27, angle=-72.5deg, area=0.0625) , currency_worker : 100(0.50, angle=0.1deg, area=0.9980)
+frame 132 : general_1 : person(0.89, angle=9.8deg, area=0.0138), person(0.79, angle=80.6deg, area=0.0243), person(0.69, angle=16.7deg, area=0.0107), person(0.66, angle=65.2deg, area=0.0218), person(0.66, angle=55.4deg, area=0.0145), cup(0.26, angle=-76.2deg, area=0.0418) , currency_worker : 100(0.67, angle=0.0deg, area=0.9967)
+frame 133 : general_1 : person(0.87, angle=6.6deg, area=0.0133), person(0.85, angle=76.2deg, area=0.0234), person(0.83, angle=62.1deg, area=0.0228), person(0.81, angle=13.5deg, area=0.0108), person(0.70, angle=52.3deg, area=0.0143), handbag(0.37, angle=69.7deg, area=0.0040), bench(0.30, angle=84.0deg, area=0.0080) , currency_worker : 100(0.66, angle=0.1deg, area=0.9973), 100(0.48, angle=26.9deg, area=0.6979)
+frame 134 : general_1 : person(0.89, angle=2.9deg, area=0.0124), person(0.86, angle=72.7deg, area=0.0220), person(0.86, angle=57.2deg, area=0.0231), person(0.84, angle=9.7deg, area=0.0114), person(0.81, angle=48.0deg, area=0.0145), person(0.67, angle=64.2deg, area=0.0127), chair(0.30, angle=79.5deg, area=0.0076) , currency_worker : 100(0.79, angle=0.1deg, area=0.9974)
+frame 135 : general_1 : person(0.90, angle=0.6deg, area=0.0129), person(0.83, angle=7.3deg, area=0.0111), person(0.81, angle=55.1deg, area=0.0244), person(0.79, angle=70.1deg, area=0.0224), person(0.74, angle=44.8deg, area=0.0158), person(0.66, angle=61.9deg, area=0.0123), person(0.53, angle=85.3deg, area=0.0100) , currency_worker : 100(0.85, angle=0.0deg, area=0.9972)
+frame 136 : general_1 : person(0.89, angle=-2.0deg, area=0.0124), person(0.87, angle=52.4deg, area=0.0242), person(0.87, angle=67.2deg, area=0.0223), person(0.85, angle=5.0deg, area=0.0112), person(0.83, angle=41.9deg, area=0.0157), person(0.65, angle=58.9deg, area=0.0121), chair(0.46, angle=73.9deg, area=0.0077), suitcase(0.36, angle=85.2deg, area=0.0072) , currency_worker : 100(0.75, angle=-0.0deg, area=0.9949)
+frame 137 : general_1 : person(0.89, angle=-3.5deg, area=0.0130), person(0.88, angle=50.8deg, area=0.0242), person(0.84, angle=3.4deg, area=0.0111), person(0.82, angle=39.9deg, area=0.0173), person(0.80, angle=65.5deg, area=0.0237), person(0.65, angle=83.9deg, area=0.0129), chair(0.25, angle=72.2deg, area=0.0076) , currency_worker : 100(0.82, angle=5.2deg, area=0.9347)
+frame 138 : general_1 : person(0.91, angle=-5.8deg, area=0.0121), person(0.88, angle=62.7deg, area=0.0241), person(0.86, angle=48.7deg, area=0.0243), person(0.84, angle=37.8deg, area=0.0169), person(0.80, angle=0.9deg, area=0.0117), person(0.77, angle=82.2deg, area=0.0163), chair(0.44, angle=70.1deg, area=0.0072), clock(0.35, angle=-87.4deg, area=0.0049), clock(0.31, angle=-87.4deg, area=0.0050) , currency_worker : 100(0.82, angle=0.0deg, area=0.9935)
+frame 139 : general_1 : person(0.91, angle=-5.7deg, area=0.0120), person(0.87, angle=48.9deg, area=0.0242), person(0.87, angle=62.9deg, area=0.0249), person(0.84, angle=82.6deg, area=0.0153), person(0.83, angle=37.9deg, area=0.0167), person(0.83, angle=0.9deg, area=0.0120), clock(0.32, angle=-87.8deg, area=0.0039) , currency_worker : 100(0.81, angle=-0.0deg, area=0.9941)
+frame 140 : general_1 : person(0.90, angle=1.4deg, area=0.0111), person(0.89, angle=-5.5deg, area=0.0121), person(0.89, angle=49.6deg, area=0.0239), person(0.89, angle=63.8deg, area=0.0247), person(0.65, angle=38.6deg, area=0.0158), clock(0.32, angle=-88.0deg, area=0.0034), person(0.26, angle=82.7deg, area=0.0153) , currency_worker : 100(0.71, angle=0.1deg, area=0.9922), 100(0.53, angle=28.1deg, area=0.6814)
+frame 141 : general_1 : person(0.89, angle=-5.3deg, area=0.0124), person(0.88, angle=64.8deg, area=0.0232), person(0.88, angle=50.5deg, area=0.0244), person(0.69, angle=84.3deg, area=0.0121), person(0.55, angle=39.2deg, area=0.0160), person(0.46, angle=2.1deg, area=0.0104), person(0.39, angle=39.2deg, area=0.0159), person(0.38, angle=2.1deg, area=0.0105), person(0.32, angle=43.8deg, area=0.0078), clock(0.26, angle=-88.3deg, area=0.0027) , currency_worker : 100(0.48, angle=30.7deg, area=0.6555), 100(0.47, angle=0.7deg, area=0.9842)
+frame 142 : general_1 : person(0.90, angle=50.8deg, area=0.0238), person(0.89, angle=-5.6deg, area=0.0121), person(0.88, angle=65.1deg, area=0.0235), person(0.84, angle=1.7deg, area=0.0112), person(0.84, angle=39.1deg, area=0.0150), person(0.73, angle=84.7deg, area=0.0118), person(0.59, angle=44.1deg, area=0.0072), person(0.34, angle=-88.7deg, area=0.0030), person(0.26, angle=-9.0deg, area=0.0046) , currency_worker : 100(0.64, angle=27.0deg, area=0.6978), 100(0.63, angle=0.7deg, area=0.9880)
+frame 143 : general_1 : person(0.90, angle=51.2deg, area=0.0240), person(0.88, angle=-5.6deg, area=0.0123), person(0.87, angle=65.8deg, area=0.0244), person(0.83, angle=39.4deg, area=0.0161), person(0.83, angle=1.7deg, area=0.0110), person(0.57, angle=84.8deg, area=0.0116), chair(0.50, angle=73.7deg, area=0.0071) , currency_worker : 100(0.47, angle=32.2deg, area=0.6421), 100(0.32, angle=3.2deg, area=0.9565)
+frame 144 : general_1 : person(0.86, angle=-1.6deg, area=0.0142), person(0.75, angle=71.5deg, area=0.0241), person(0.59, angle=6.1deg, area=0.0111), person(0.43, angle=43.7deg, area=0.0158), person(0.31, angle=56.1deg, area=0.0227), clock(0.27, angle=-87.8deg, area=0.0040) , currency_worker : 100(0.83, angle=9.7deg, area=0.8842)
+frame 145 : general_1 : person(0.88, angle=3.1deg, area=0.0148), person(0.80, angle=10.6deg, area=0.0121), person(0.79, angle=76.4deg, area=0.0257), person(0.71, angle=48.8deg, area=0.0170), person(0.60, angle=61.4deg, area=0.0252) , currency_worker : 100(0.84, angle=0.2deg, area=0.9959)
+frame 146 : general_1 : person(0.86, angle=6.3deg, area=0.0145), person(0.84, angle=52.2deg, area=0.0177), person(0.78, angle=81.7deg, area=0.0291), person(0.75, angle=13.8deg, area=0.0119), person(0.74, angle=64.9deg, area=0.0256) , currency_worker : 100(0.69, angle=0.3deg, area=0.9941), 100(0.62, angle=30.1deg, area=0.6637)
+frame 147 : general_1 : person(0.89, angle=9.8deg, area=0.0142), person(0.83, angle=83.8deg, area=0.0210), person(0.82, angle=17.1deg, area=0.0125), person(0.77, angle=69.5deg, area=0.0268), person(0.75, angle=55.9deg, area=0.0174) , currency_worker : 100(0.85, angle=0.1deg, area=0.9955)
+frame 148 : general_1 : person(0.91, angle=12.0deg, area=0.0131), person(0.88, angle=19.5deg, area=0.0115), person(0.88, angle=58.3deg, area=0.0197), person(0.88, angle=85.2deg, area=0.0164), person(0.87, angle=72.0deg, area=0.0285), person(0.37, angle=63.1deg, area=0.0105) , currency_worker : 100(0.57, angle=0.0deg, area=0.9928), 100(0.36, angle=28.2deg, area=0.6807)
+frame 149 : general_1 : person(0.91, angle=11.6deg, area=0.0134), person(0.88, angle=19.1deg, area=0.0116), person(0.88, angle=58.1deg, area=0.0204), person(0.87, angle=72.3deg, area=0.0270), person(0.85, angle=85.6deg, area=0.0153), person(0.43, angle=62.9deg, area=0.0122) , currency_worker : 100(0.69, angle=0.2deg, area=0.9918), 100(0.46, angle=32.2deg, area=0.6379)
+frame 150 : general_1 : person(0.89, angle=56.4deg, area=0.0205), person(0.89, angle=9.9deg, area=0.0141), person(0.85, angle=71.0deg, area=0.0272), person(0.85, angle=84.7deg, area=0.0191), person(0.81, angle=17.8deg, area=0.0120) , currency_worker : 100(0.51, angle=29.9deg, area=0.6623), 100(0.46, angle=0.4deg, area=0.9917)
+frame 151 : general_1 : person(0.88, angle=7.3deg, area=0.0146), person(0.87, angle=83.2deg, area=0.0242), person(0.83, angle=53.6deg, area=0.0205), person(0.81, angle=68.3deg, area=0.0261), person(0.28, angle=15.1deg, area=0.0135) , currency_worker : 100(0.77, angle=0.2deg, area=0.9960), 100(0.69, angle=30.0deg, area=0.6667)
+frame 152 : general_1 : person(0.88, angle=4.4deg, area=0.0151), person(0.85, angle=12.1deg, area=0.0133), person(0.83, angle=65.2deg, area=0.0254), person(0.83, angle=81.4deg, area=0.0277), person(0.74, angle=50.2deg, area=0.0218), person(0.53, angle=87.1deg, area=0.0068) , currency_worker : 100(0.88, angle=3.4deg, area=0.9589)
+frame 153 : general_1 : person(0.88, angle=1.2deg, area=0.0156), person(0.86, angle=62.1deg, area=0.0269), person(0.85, angle=78.4deg, area=0.0288), person(0.84, angle=46.4deg, area=0.0244), person(0.83, angle=9.2deg, area=0.0138), person(0.77, angle=86.0deg, area=0.0102) , currency_worker : 100(0.89, angle=9.9deg, area=0.8841)
+frame 154 : general_1 : person(0.89, angle=43.7deg, area=0.0273), person(0.89, angle=-1.6deg, area=0.0154), person(0.88, angle=75.3deg, area=0.0282), person(0.87, angle=84.7deg, area=0.0154), person(0.87, angle=6.6deg, area=0.0131), person(0.74, angle=59.7deg, area=0.0248) , currency_worker : 100(0.86, angle=9.2deg, area=0.8928)
+frame 155 : general_1 : person(0.89, angle=58.3deg, area=0.0282), person(0.89, angle=-3.5deg, area=0.0148), person(0.88, angle=73.4deg, area=0.0283), person(0.87, angle=4.8deg, area=0.0131), person(0.87, angle=41.9deg, area=0.0280), person(0.85, angle=84.9deg, area=0.0158) , currency_worker : 100(0.80, angle=29.9deg, area=0.6675), 100(0.71, angle=1.7deg, area=0.9788)
+frame 156 : general_1 : person(0.89, angle=41.7deg, area=0.0275), person(0.88, angle=57.3deg, area=0.0268), person(0.88, angle=-3.9deg, area=0.0144), person(0.87, angle=73.2deg, area=0.0282), person(0.84, angle=4.2deg, area=0.0127), person(0.82, angle=85.7deg, area=0.0131) , currency_worker : 100(0.71, angle=33.5deg, area=0.6268)
+frame 157 : general_1 : person(0.90, angle=43.0deg, area=0.0289), person(0.88, angle=74.4deg, area=0.0308), person(0.88, angle=58.8deg, area=0.0298), person(0.87, angle=5.2deg, area=0.0134), person(0.63, angle=-3.0deg, area=0.0150), person(0.56, angle=87.4deg, area=0.0049) , currency_worker : 100(0.84, angle=7.2deg, area=0.9157)
+frame 158 : general_1 : timeout , currency_worker : pending
+frame 159 : general_1 : timeout , currency_worker : pending
+frame 160 : general_1 : timeout , currency_worker : pending
+frame 161 : general_1 : timeout , currency_worker : pending
+frame 162 : general_1 : timeout , currency_worker : pending
+frame 163 : general_1 : timeout , currency_worker : pending
+frame 164 : general_1 : timeout , currency_worker : pending
+frame 165 : general_1 : timeout , currency_worker : pending
+frame 166 : general_1 : timeout , currency_worker : pending
+frame 167 : general_1 : timeout , currency_worker : pending
+frame 168 : general_1 : timeout , currency_worker : pending
+frame 169 : general_1 : timeout , currency_worker : pending
+frame 170 : general_1 : timeout , currency_worker : pending
+frame 171 : general_1 : timeout , currency_worker : pending
+frame 172 : general_1 : timeout , currency_worker : pending
+frame 173 : general_1 : timeout , currency_worker : pending
+frame 174 : general_1 : timeout , currency_worker : pending
+frame 175 : general_1 : timeout , currency_worker : pending
+frame 176 : general_1 : timeout , currency_worker : pending
+frame 177 : general_1 : timeout , currency_worker : pending
+frame 178 : general_1 : timeout , currency_worker : pending
+frame 179 : general_1 : timeout , currency_worker : pending
+frame 180 : general_1 : timeout , currency_worker : pending
+frame 181 : general_1 : timeout , currency_worker : pending
+frame 182 : general_1 : timeout , currency_worker : pending
+frame 183 : general_1 : timeout , currency_worker : pending
+frame 184 : general_1 : timeout , currency_worker : pending
+frame 185 : general_1 : timeout , currency_worker : pending
+frame 186 : general_1 : timeout , currency_worker : pending
+frame 187 : general_1 : timeout , currency_worker : pending
+frame 188 : general_1 : timeout , currency_worker : pending
+frame 189 : general_1 : timeout , currency_worker : pending
+frame 190 : general_1 : timeout , currency_worker : pending
+frame 191 : general_1 : timeout , currency_worker : pending
+frame 192 : general_1 : timeout , currency_worker : pending
+frame 193 : general_1 : timeout , currency_worker : pending
+frame 194 : general_1 : timeout , currency_worker : pending

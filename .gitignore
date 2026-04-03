@@ -1,0 +1,11 @@
+zmq_env/
+tts_clips/
+video.mp4
+test.mp4
+pothole.mp4
+
+# Model artifacts
+*.onnx
+*.pt
+*.pothole
+.venv/
